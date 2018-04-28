@@ -1,0 +1,6 @@
+C:\Users\msndu\source\repos\projLinguagem\Entidade\bin\Debug\Entidade.dll
+C:\Users\msndu\source\repos\projLinguagem\Entidade\bin\Debug\Entidade.pdb
+C:\Users\msndu\source\repos\projLinguagem\Entidade\obj\Debug\Entidade.csprojResolveAssemblyReference.cache
+C:\Users\msndu\source\repos\projLinguagem\Entidade\obj\Debug\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\msndu\source\repos\projLinguagem\Entidade\obj\Debug\Entidade.dll
+C:\Users\msndu\source\repos\projLinguagem\Entidade\obj\Debug\Entidade.pdb

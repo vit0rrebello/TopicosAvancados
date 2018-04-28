@@ -1,0 +1,17 @@
+C:\Users\msndu\source\repos\projLinguagem\projLinguagem\bin\Debug\projLinguagem.exe.config
+C:\Users\msndu\source\repos\projLinguagem\projLinguagem\bin\Debug\projLinguagem.exe
+C:\Users\msndu\source\repos\projLinguagem\projLinguagem\bin\Debug\projLinguagem.pdb
+C:\Users\msndu\source\repos\projLinguagem\projLinguagem\obj\Debug\projLinguagem.csprojResolveAssemblyReference.cache
+C:\Users\msndu\source\repos\projLinguagem\projLinguagem\obj\Debug\projLinguagem.tela.resources
+C:\Users\msndu\source\repos\projLinguagem\projLinguagem\obj\Debug\projLinguagem.Properties.Resources.resources
+C:\Users\msndu\source\repos\projLinguagem\projLinguagem\obj\Debug\projLinguagem.csproj.GenerateResource.cache
+C:\Users\msndu\source\repos\projLinguagem\projLinguagem\obj\Debug\projLinguagem.csproj.CoreCompileInputs.cache
+C:\Users\msndu\source\repos\projLinguagem\projLinguagem\obj\Debug\projLinguagem.exe
+C:\Users\msndu\source\repos\projLinguagem\projLinguagem\obj\Debug\projLinguagem.pdb
+C:\Users\msndu\source\repos\projLinguagem\projLinguagem\obj\Debug\projLinguagem.telaPrincipal.resources
+C:\Users\msndu\source\repos\projLinguagem\projLinguagem\bin\Debug\Entidade.dll
+C:\Users\msndu\source\repos\projLinguagem\projLinguagem\bin\Debug\lingaugemDB.dll
+C:\Users\msndu\source\repos\projLinguagem\projLinguagem\bin\Debug\Entidade.pdb
+C:\Users\msndu\source\repos\projLinguagem\projLinguagem\bin\Debug\lingaugemDB.pdb
+C:\Users\msndu\source\repos\projLinguagem\projLinguagem\obj\Debug\projLinguagem.csproj.CopyComplete
+C:\Users\msndu\source\repos\projLinguagem\projLinguagem\bin\Debug\lingaugemDB.dll.config

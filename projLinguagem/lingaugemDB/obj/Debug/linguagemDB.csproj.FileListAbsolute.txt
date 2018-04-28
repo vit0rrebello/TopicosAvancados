@@ -1,0 +1,10 @@
+C:\Users\msndu\source\repos\projLinguagem\lingaugemDB\bin\Debug\lingaugemDB.dll
+C:\Users\msndu\source\repos\projLinguagem\lingaugemDB\bin\Debug\lingaugemDB.pdb
+C:\Users\msndu\source\repos\projLinguagem\lingaugemDB\bin\Debug\Entidade.dll
+C:\Users\msndu\source\repos\projLinguagem\lingaugemDB\bin\Debug\Entidade.pdb
+C:\Users\msndu\source\repos\projLinguagem\lingaugemDB\obj\Debug\linguagemDB.csprojResolveAssemblyReference.cache
+C:\Users\msndu\source\repos\projLinguagem\lingaugemDB\obj\Debug\linguagemDB.csproj.CoreCompileInputs.cache
+C:\Users\msndu\source\repos\projLinguagem\lingaugemDB\obj\Debug\linguagemDB.csproj.CopyComplete
+C:\Users\msndu\source\repos\projLinguagem\lingaugemDB\obj\Debug\lingaugemDB.dll
+C:\Users\msndu\source\repos\projLinguagem\lingaugemDB\obj\Debug\lingaugemDB.pdb
+C:\Users\msndu\source\repos\projLinguagem\lingaugemDB\bin\Debug\lingaugemDB.dll.config
